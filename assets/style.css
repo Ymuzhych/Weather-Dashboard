@@ -18,7 +18,9 @@
       background-color: #1a5524;
       padding: 14px 16px;
   }
-  
+  .searchbar {
+      text-align: left;
+  }
   .footer {
     position: fixed;
     left: 0;
